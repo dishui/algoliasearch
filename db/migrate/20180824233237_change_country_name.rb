@@ -1,5 +1,5 @@
 class ChangeCountryName < ActiveRecord::Migration[5.2]
   def change
-    rename_column :Contacts, :country, :county
+    rename_column :contacts, :country, :county
   end
 end
