@@ -32,3 +32,6 @@
 # Ignore the ide created logs
 /.idea
 /.idea/*
+
+#ignore the application.yml
+application.yml

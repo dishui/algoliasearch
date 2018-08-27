@@ -5,11 +5,16 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 
+
+Ruby-2.5.1
 
 * System dependencies
 
 * Configuration
+
+use application.yml to add your algolia keys  for local development
+use Figaro envoriment variable for Heroku (use Figaro gem for ruby)
 
 * Database creation
 
